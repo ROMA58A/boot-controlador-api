@@ -1,0 +1,6 @@
+node_modules/
+.local-chromium/
+.env
+dist
+build
+coverage
